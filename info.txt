@@ -1,0 +1,23 @@
+Backend:
+    1. npx express-generator
+    2. npx install
+    3. npm install nodemon
+    4. package.json átírni: "start" : "nodemon ./bin/www"
+    5. npm start
+        //http://localhost:3000 működik-e?
+        //terminalban [nodemon] fut-e?
+    6. npm uninstall jade
+    7. npm install mysql
+    8. dbconfig.js //username, password, database
+    9. dboperation.js
+    10. /routes mappába: filmek.js router létrehozása
+    11. app.js
+        var filmekRouter = require('./routes/filmek');
+        app.use('/filmek',filmekRouter);
+
+    Frontend:
+    1. npx create-react-app (my-app) //app neve
+    2. npm install react-scripts@latest
+    3. npm install axios
+    3. npm install 
+    4. npm start
