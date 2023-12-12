@@ -1,0 +1,55 @@
+{
+    "orszagok": [
+      {
+        "orszag": "Magyarország",
+        "fovaros": "Budapest",
+        "leiras": "Magyarország közép-európai ország, amely híres történelmi városairól és természeti szépségeiről."
+      },
+      {
+        "orszag": "Spanyolország",
+        "fovaros": "Madrid",
+        "leiras": "Spanyolország a Pirineusok és a Földközi-tenger között fekvő ország, amely híres a flamenco táncról és a corrida bikaviadalról."
+      },
+      {
+        "orszag": "Franciaország",
+        "fovaros": "Párizs",
+        "leiras": "Franciaország a világ egyik legnépszerűbb turisztikai célpontja, híres kultúrájáról, gasztronómiájáról és művészetéről."
+      },
+      {
+        "orszag": "Olaszország",
+        "fovaros": "Róma",
+        "leiras": "Olaszország híres a történelmi városairól, a pizzáról, a tésztáról és a művészeti örökségéről."
+      },
+      {
+        "orszag": "Németország",
+        "fovaros": "Berlin",
+        "leiras": "Németország a közép-európai ország, amely híres a kastélyairól, söreiről és autóiparáról."
+      },
+      {
+        "orszag": "Egyesült Királyság",
+        "fovaros": "London",
+        "leiras": "Az Egyesült Királyság híres történelmi emlékeiről, kultúrájáról és a királyi családról."
+      },
+      {
+        "orszag": "Oroszország",
+        "fovaros": "Moszkva",
+        "leiras": "Oroszország a világ legnagyobb területű országa, amely híres a Kremlről, a Vörös térről és a művészeti hagyományairól."
+      },
+      {
+        "orszag": "Kína",
+        "fovaros": "Peking",
+        "leiras": "Kína a világ egyik legnépesebb országa, amely híres a Nagy Falról, a kínai konyháról és a hagyományos kínai medicináról."
+      },
+      {
+        "orszag": "Japán",
+        "fovaros": "Tokió",
+        "leiras": "Japán a technológia és a hagyományok találkozásának helye, híres kertjeiről, templomairól és szigetországáról."
+      },
+      {
+        "orszag": "Ausztrália",
+        "fovaros": "Canberra",
+        "leiras": "Ausztrália híres a kengurukról, a bozótos területeiről és a lenyűgöző tengerpartjairól."
+      }
+    ]
+  }
+  

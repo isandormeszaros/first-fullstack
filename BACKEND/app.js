@@ -13,7 +13,7 @@ var cors = require('cors');
 var app = express();
 
 var corsOption = {
-  origin: "http://localhost:3001"
+  origin: "http://localhost:3000"
 }
 app.use(cors(corsOption));
 // view engine setup

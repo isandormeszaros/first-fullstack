@@ -12,10 +12,20 @@ const get = (id) => {
     return http.post(`/filmek`, data);
   };
   
+  const remove = (id) => {
+    return http.delete(`/filmek/${id}`);
+  };
+
+  const update = (id, data) => {
+    return http.put(`/filmek/${id}`, data);
+  };
+
   const filmService = {
     getAll,
     get,
-    create
+    create,
+    remove, 
+    update
   };
   
   export default filmService;
