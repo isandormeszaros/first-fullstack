@@ -1,12 +1,10 @@
 import React from 'react';
-import ProductList from './component/ProductList/ProductList';
-import 'bootstrap/dist/css/bootstrap.min.css';
-// import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import DolgLista from './component/DolgozatLista/DolgLista';
 import './App.css';
 
 function App() {
   return (
-   <ProductList/>
+   <DolgLista/>
   );
 }
 
